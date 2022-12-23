@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "no": 1,
+      "color": "#EEBFA5",
+      "class": true,
+      "logo": "career/career-logo-zipdoc.png",
+      "thumbnail": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfNjEg/MDAxNTcwNzg1ODM3Nzc0.zxDXm20VlPdQv8GQi9LWOdPwkqoBdiEmf8aBTWTsPF8g.FqMQTiF6ufydkQxrLBgET3kNYAyyKGJTWTyi1qd1-_Ag.PNG.kkson50/sample_images_01.png?type=w800",
+      "title": "집닥1",
+      "start_date": "2022.11.22",
+      "end_date": null,
+      "info": " 고객에게 가장 적합한 인테리어 업체를 연결해주고 공사의 마무리까지 책임 관리해주는 토탈 솔루션 서비스",
+      "latLng": {
+        "lat": 37.502436,
+        "lng": 127.028157
+      }
+    },
+    {
+      "no": 2,
+      "color": "#000000",
+      "class": false,
+      "logo": "career/career-logo-zipdoc.png",
+      "thumbnail": "https://mblogthumb-phinf.pstatic.net/MjAxOTEwMTFfNjEg/MDAxNTcwNzg1ODM3Nzc0.zxDXm20VlPdQv8GQi9LWOdPwkqoBdiEmf8aBTWTsPF8g.FqMQTiF6ufydkQxrLBgET3kNYAyyKGJTWTyi1qd1-_Ag.PNG.kkson50/sample_images_02.png?type=w800",
+      "title": "집닥2",
+      "start_date": "2022.11.22",
+      "end_date": null,
+      "info": " 고객에게 가장 적합한 인테리어 업체를 연결해주고 공사의 마무리까지 책임 관리해주는 토탈 솔루션 서비스",
+      "latLng": {
+        "lat": 37.502436,
+        "lng": 127.028157
+      }
+    }
+  ]
+}
