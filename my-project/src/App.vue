@@ -6,12 +6,14 @@
       <Product v-for="(product, i) in products" :key="i" :product="product">
       </Product>
     </ul>
+    <Home />
     <Sub @setUpdate="setUpdate" />{{ value }}
   </div>
 </template>
 
 <!--Script-->
 <script>
+import Home from './components/Home.vue';
 import Menu from './components/Menu.vue';
 import Product from './components/Product.vue';
 import Sub from './components/Sub.vue';
@@ -71,6 +73,7 @@ export default {
     Menu,
     Product,
     Sub,
+    Home,
   },
 };
 </script>
